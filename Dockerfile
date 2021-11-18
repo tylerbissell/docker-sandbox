@@ -1,3 +1,3 @@
 FROM busybox
 
-CMD['sh']
+CMD ['sh']
